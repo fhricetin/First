@@ -1,0 +1,29 @@
+.container {
+  width: 2400px;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  margin-bottom: 50px;
+}
+.mainContainer{
+  margin-top: 150px;
+}
+.image{
+  object-fit: cover;
+}
+
+.content {
+}
+
+.title{
+  margin-bottom: 10px;
+}
+
+.desc{
+  font-size: 18px;
+  color: #999;
+}
+
+.h1{
+  font-size: 80px;
+}
